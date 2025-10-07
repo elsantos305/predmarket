@@ -1,1 +1,1 @@
-from .book import Book, Element
+from .normalize import *

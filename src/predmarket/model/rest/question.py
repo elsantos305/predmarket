@@ -1,6 +1,7 @@
 from pydantic import BaseModel, ConfigDict
 from typing import Any
 
+
 class Question(BaseModel):
     """Normalized event/question across exchanges."""
 
