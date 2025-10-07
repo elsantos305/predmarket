@@ -1,6 +1,6 @@
 [project]
 name = "predmarket"
-version = "0.0.1"
+version = "0.1.0"
 description = "Unified data API for Kalshi and Polymarket. Core schema + clean SDk."
 readme = "README.md"
 requires-python = ">=3.12"

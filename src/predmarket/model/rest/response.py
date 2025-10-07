@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import TypeVar, Generic, Any
 
 T = TypeVar("T")
@@ -8,7 +8,7 @@ class Response(BaseModel, Generic[T]):
     """Generic API response wrapper."""
 
     data: T
-    metadata: dict[str, Any] = {}
+    metadata: dict[str, Any] = Field(default_factory=dict)
 
     def merge(self, other: "Response[list[Any]]") -> "Response[list[Any]]":
         """Merge two list-based responses."""

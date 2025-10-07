@@ -1,8 +1,6 @@
 from __future__ import annotations
-from typing import Any, Literal, TypeVar
+from typing import Any, Literal
 from .exchange import *
-
-Param = T | None
 ExchangeName = Literal["polymarket", "kalshi"]
 
 
