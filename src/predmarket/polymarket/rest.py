@@ -10,7 +10,7 @@ from typing import Any
 from yarl import URL
 
 
-class PolymarketExchange(BaseExchangeClient):
+class PolymarketRest(BaseExchangeClient):
     BASE_URL = URL("https://gamma-api.polymarket.com/")
 
     async def fetch_price(self, id: str) -> Response[Price]:

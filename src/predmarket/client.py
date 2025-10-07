@@ -10,8 +10,8 @@ from predmarket.model.rest import (
     Question,
     ExchangeName,
 )
-from .kalshi import KalshiExchange
-from .polymarket import PolymarketExchange
+from .kalshi import KalshiRest
+from .polymarket import PolymarketRest
 import structlog
 
 
@@ -20,8 +20,8 @@ log = structlog.get_logger()
 
 class PredMarket:
     _CLIENTS: dict[ExchangeName, type[BaseExchangeClient]] = {
-        "kalshi": KalshiExchange,
-        "polymarket": PolymarketExchange,
+        "kalshi": KalshiRest,
+        "polymarket": PolymarketRest,
     }
 
     def __init__(self, client: AsyncClient, exchange: ExchangeName):

@@ -10,7 +10,7 @@ from predmarket.model.rest import (
 )
 
 
-class KalshiExchange(BaseExchangeClient):
+class KalshiRest(BaseExchangeClient):
     """Kalshi-specific implementation."""
 
     BASE_URL = URL("https://api.elections.kalshi.com/trade-api/v2/")
