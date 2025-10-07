@@ -6,7 +6,8 @@ Both Kalshi and Polymarket provide public-facing APIs with high rate limits. `pr
 
 ## Install
 ```uv add predmarket ```
-
+or
+`pip install predmarket`
 
 ## Basic Usage
 
