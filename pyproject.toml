@@ -1,0 +1,11 @@
+[project]
+name = "predmarket"
+version = "0.0.1"
+description = "Unified data API for Kalshi and Polymarket. Core schema + clean SDk."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "pydantic>=2.11.10",
+    "yarl>=1.22.0",
+]
