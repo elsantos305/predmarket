@@ -1,8 +1,8 @@
-from .models import (
-    BaseExchangeClient,
+from predmarket.model.rest import (
     Response,
     Price,
     Contract,
+    BaseExchangeClient,
     Question,
     clean_params,
 )
@@ -11,8 +11,6 @@ from yarl import URL
 
 
 class PolymarketExchange(BaseExchangeClient):
-    """Polymarket-specific implementation."""
-
     BASE_URL = URL("https://gamma-api.polymarket.com/")
 
     async def fetch_price(self, id: str) -> Response[Price]:

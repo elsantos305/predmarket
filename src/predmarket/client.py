@@ -2,11 +2,11 @@ from __future__ import annotations
 from typing import Any
 from httpx import AsyncClient
 from yarl import URL
-from .models import (
-    BaseExchangeClient,
+from predmarket.model.rest import (
     Response,
     Price,
     Contract,
+    BaseExchangeClient,
     Question,
     ExchangeName,
 )
