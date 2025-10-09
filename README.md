@@ -1,5 +1,7 @@
 # A Unified SDK for Prediction Markets
 
+### Check out [The Odds Company](https://github.com/orgs/the-odds-company/repositories) for similar projects
+
 `predmarket` is an `asyncio`-native Python-based library that communicates directly with prediction markets (Kalshi and Polymarket).
 
 Both Kalshi and Polymarket provide public-facing APIs with high rate limits. `predmarket` aims to unify these two APIs into one install, one format, and one library to learn. The goal to be abstract enough to be intuitive, but not lose **any** power of the individual APIs.
